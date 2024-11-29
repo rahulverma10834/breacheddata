@@ -12,7 +12,18 @@ wendy.dean@sophos.com	Han0th12
 mirza.mujkanovic@sophos.com	$2a$08$cDq4f9MDp8juPP5XRFV3gOnh5ygtB0IfyvKFgxmsIxNfLLtI5Jmcq
 christian.spaeni@sophos.com	$2a$08$rW6NNRfTLONCK6bKfdaSnO9sS0MyXDNg6eBTbNQne.WLBkIu75Fda
 smenc.dropbox@sophos.com	$2a$08$DbVUcRWexRLOMNSRLExPw.DePfZd6eldF3tnu2FrxRm9FAMOKRC3a
-crew-member@costacoffee.com:kQfeHPCzXSjJ
+crew-member@costacoffee.com  kQfeHPCzXSjJ
+Emma.Fox@informais.com	0x56639AB07EF78D171E34A4D98B476007309459DE
+michelle.cowan@informais.com	dkqsb2H/W+Ef/gW0k9ak8A==
+menelaos.kamariotidis@informais.com	NJ0hWBnUtJGhS6T5jh+qiQ==
+james.reidj@informais.com	oLaxn1rQv5bGoyXW/CXcpw==
+chris.bailey@informais.com	r5qU+KTzv64DDM5y6e6/lQ==
+patrick.eannotti@informais.com	05AxZzBrn2CP1+Uzq84AXg==
+taab@informais.com	paulstaab
+dustin.wuest@informais.com	?Gsq?^k?>???
+paul.freeman@informais.com	K@y3p3nn
+jamie.canina@informais.com	$2y$10$q11X7Bqq/33TEV1HopfUS..8/WvXv0kV7mNL0MDUoyP0UmNHLqBai
+
 
 
   

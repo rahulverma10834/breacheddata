@@ -12,6 +12,7 @@ wendy.dean@sophos.com	Han0th12
 mirza.mujkanovic@sophos.com	$2a$08$cDq4f9MDp8juPP5XRFV3gOnh5ygtB0IfyvKFgxmsIxNfLLtI5Jmcq
 christian.spaeni@sophos.com	$2a$08$rW6NNRfTLONCK6bKfdaSnO9sS0MyXDNg6eBTbNQne.WLBkIu75Fda
 smenc.dropbox@sophos.com	$2a$08$DbVUcRWexRLOMNSRLExPw.DePfZd6eldF3tnu2FrxRm9FAMOKRC3a
+crew-member@costacoffee.com:kQfeHPCzXSjJ
 
 
   
